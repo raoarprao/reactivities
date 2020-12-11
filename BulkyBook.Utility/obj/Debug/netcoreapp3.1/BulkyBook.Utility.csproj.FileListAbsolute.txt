@@ -1,8 +1,0 @@
-D:\Work\Projects\Udemy\ASP.netMVC3.1\BulkyBookREPO\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.deps.json
-D:\Work\Projects\Udemy\ASP.netMVC3.1\BulkyBookREPO\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
-D:\Work\Projects\Udemy\ASP.netMVC3.1\BulkyBookREPO\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
-D:\Work\Projects\Udemy\ASP.netMVC3.1\BulkyBookREPO\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfoInputs.cache
-D:\Work\Projects\Udemy\ASP.netMVC3.1\BulkyBookREPO\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfo.cs
-D:\Work\Projects\Udemy\ASP.netMVC3.1\BulkyBookREPO\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csproj.CoreCompileInputs.cache
-D:\Work\Projects\Udemy\ASP.netMVC3.1\BulkyBookREPO\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.dll
-D:\Work\Projects\Udemy\ASP.netMVC3.1\BulkyBookREPO\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
