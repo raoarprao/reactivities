@@ -4,3 +4,6 @@ obj
 .DS_Store
 appsettings.json
 *.db    
+Persistence/Migrations/20201225130158_ActivityAdded.cs
+Persistence/Migrations/20201225130158_ActivityAdded.Designer.cs
+Persistence/Migrations/DataContextModelSnapshot.cs
